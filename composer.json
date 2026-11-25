@@ -1,11 +1,14 @@
 {
     "name": "infrangible/m2-hyva-icons",
-    "description": "Infrangible Magento 2 Hyvä Icons",
+    "description": "Adds extra SVG icons in outline and solid style to Hyvä theme stores, for use by other Infrangible Hyvä modules and custom templates.",
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Hyvä"
     ],
     "homepage": "https://github.com/infrangible-dev/m2-hyva-icons",
     "authors": [
